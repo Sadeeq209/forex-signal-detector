@@ -1,4 +1,4 @@
-# forex-signal-detect# Forex Signal Detector
+# Forex Signal Detector
 
 A trading signal detector written in C++. It reads hourly candles for any forex pair from a text file and scans them for 5 signals, each in a bullish and a bearish version.
 
