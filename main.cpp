@@ -3,7 +3,6 @@
 #include <cmath>
 #include <string>
 #include <fstream>
-
 #include <sstream>
 
 struct Candle {
